@@ -1,6 +1,6 @@
 # Network Security & Resilience — Academic Reports
 
-Academic reports from the NSR/AS unit at Swinburne University of Technology (2025).
+Academic reports from the TNE30009 unit at Swinburne University of Technology (2025).
 Topics covered: VPN configuration, public key cryptography, risk analysis, and post-quantum cryptography.
 
 ---
